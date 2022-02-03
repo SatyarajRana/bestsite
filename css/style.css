@@ -14,6 +14,7 @@ body{
   padding-top: 150px;
   margin-bottom: 0px;
   background-color: rgb(204, 255, 242);
+  margin-right:0px;
 }
 h1{
   color:rgb(0, 179, 179);
@@ -31,6 +32,7 @@ h1{
   background-color: rgb(230, 255, 249);
   padding-top: 100px;
   padding-bottom: 100px;
+  margin-right:0px;
 }
 .skill-row1{
   margin: 50px auto 100px auto;
@@ -135,6 +137,7 @@ h1{
   padding-top: 60px;
   padding-bottom: 60px;
   margin-bottom: 0;
+  margin-right:0px;
 }
 .footer-link{
   line-height: 3;
